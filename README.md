@@ -4,4 +4,4 @@ The idea for the model is from a YouTube video. I have changed the model a bit a
 
 ## GPU for training
 
-Without GPU the training might the a long time. I have WSL2 with Ubuntu Linux in Windows 11. This is required to get the GPU version of Tensorflow working on Windows.
+Without GPU the training might take a long time. I have WSL2 with Ubuntu Linux in Windows 11. This is required to get the GPU version of Tensorflow working on Windows.
